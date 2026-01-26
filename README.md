@@ -22,7 +22,7 @@ Generate accurate sales forecasts
 
 3. README.md                # Project documentation
 
-4. dataset.csv (optional)   # Sales dataset (if added later)
+4. dataset.csv (optional)   # Sales dataset
 
 # Machine Learning Workflow
 
